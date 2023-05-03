@@ -1,6 +1,6 @@
 function insert(num)   
 {  
-documentdocument.form1.textview.value = document.form1.textview.value + num;  
+document.form1.textview.value = document.form1.textview.value + num;  
 }  
   
 function equal()  
